@@ -1,4 +1,4 @@
 function aperteBotao() {    
-    var teste = prompt("Teste de codigo");
+    var teste = prompt("Fazendo commit pelo VScode");
 }
 
